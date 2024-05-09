@@ -1,0 +1,11 @@
+{
+  "name": "jsbgl-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:naftalimurgor/jsbgl-ts.git",
+  "author": "naftalimurgor <murgornaftali@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.11"
+  }
+}
