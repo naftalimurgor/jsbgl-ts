@@ -1,6 +1,6 @@
 # jsbgl-ts
 
-The `jsbgl` library provides a set of functions and constants for working with Bitcoin and blockchain-related operations in JavaScript. While the library itself doesn't include TypeScript types out of the box, it can be augmented with TypeScript types to enhance development experience and ensure type safety.
+The `jsbgl` library provides a set of functions and constants for working with Bitgesell and blockchain-related operations in JavaScript. While the library itself doesn't include TypeScript types out of the box, it can be augmented with TypeScript types to enhance development experience and ensure type safety.
 
 This guide explains how to augment the `jsbgl` library with TypeScript types, allowing you to leverage TypeScript's static type checking and editor support.
 
